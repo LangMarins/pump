@@ -4,8 +4,8 @@
 #define Pump D5
 
 char auth[] = "API KEY";   
-char ssid[] = "3BB_LANGMARINS_2.4GHz"; 
-char pass[] = "Josephch56n";     
+char ssid[] = "SSID"; 
+char pass[] = "PASSWORD SSID";     
 
 WidgetLCD lcd1(V0);
 WidgetLED LED(V1);
